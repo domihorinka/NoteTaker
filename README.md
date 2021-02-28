@@ -5,5 +5,6 @@ I've created a note taker application that allows you to write notes and save th
 Heroku Deployed:
 https://note-taker-dominique.herokuapp.com/
 
-GitHub deployed:
-https://domihorinka.github.io/NoteTaker/
+GitHub repo:
+
+https://github.com/domihorinka/NoteTaker
